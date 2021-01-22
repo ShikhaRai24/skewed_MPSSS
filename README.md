@@ -3,10 +3,10 @@
 Mansi, Purva, Shanu, Shikha & Siddhant
 
 #Domain: 
-Banking & Finance
+NLP: Sentimental Analysis
 
 #Problem Statement:
-Under discussion
+We wish to find out what is the majoritarian view point (positive/negative) of the digital audience regarding the farm laws.
 
 #Reference published work:
 
